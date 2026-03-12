@@ -1,2 +1,2 @@
-# chimmus-hello-world
+# Hello World
 A collection of Hello Worlds!
